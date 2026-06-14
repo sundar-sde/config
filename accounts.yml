@@ -1,6 +1,6 @@
 
 accounts:
-  message: "Welcome to Bank accounts related  API"
+  message: "Welcome to Bank accounts related  production API"
   contactDetails:
     name: "sundar"
     email: "{cipher}d9761a5a0db79680f800eecb442d56ca5d85d9dfc0645feb2ea3f19cf6f913363732f9b5f464827b5625ca51e13750d5"
