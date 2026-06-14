@@ -1,6 +1,6 @@
 
 accounts:
-  message: "Welcome to Bank accounts related API for prod"
+  message: "Welcome to Bank accounts related API for production prod"
   contactDetails:
     name: "sundar"
     email: "sundar@gmail.com"
