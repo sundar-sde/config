@@ -1,6 +1,6 @@
 
 loans:
-  message: "Welcome to Bank card related production api prod"
+  message: "Welcome to Bank card related production apiprod"
   contactDetails:
     name: "sundar"
     email: "sundar@gmail.com"
