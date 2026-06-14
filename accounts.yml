@@ -3,7 +3,7 @@ accounts:
   message: "Welcome to Bank accounts related API"
   contactDetails:
     name: "sundar"
-    email: "sundar@gmail.com"
+    email: "{cipher}079f78a29a88c0e98ce8fc3a7bbfdf18be54c296b45f25ebeab8367f28af4a0739adae863ed45b3f9611b40b08e7b77e"
   onCallSupport:
     - "(91)2324234343"
     - "(91)2322434343"
