@@ -1,6 +1,6 @@
 
 accounts:
-  message: "Welcome to Bank accounts related API production h iqa"
+  message: "Welcome to Bank accounts related API production webhook qa"
   contactDetails:
     name: "sundar"
     email: "sundar@gmail.com"
